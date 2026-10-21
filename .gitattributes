@@ -1,0 +1,14 @@
+# Generated on 2026-11-10
+# Configuration for git attributes
+
+* text=auto
+Cargo.lock linguist-generated
+src/**/*.js linguist-detectable
+
+vendor/* linguist-vendored
+docs/**/*.html linguist-vendored
+**/*.js linguist-detectable
+
+*.svg text
+docs/index.html linguist-vendored
+*.min.css linguist-generated
